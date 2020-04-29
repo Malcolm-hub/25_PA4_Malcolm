@@ -22,3 +22,5 @@ white box testing and black box testing.
 Integration Testing is conducted by Testers
 
 It is type of blackbox and whitebox testing
+
+Updated by 26_Zachary
